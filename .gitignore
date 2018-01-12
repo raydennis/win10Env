@@ -1,1 +1,6 @@
-.vagrant
+# Vagrant
+.vagrant/
+
+/provision/vagrant.retry
+
+
